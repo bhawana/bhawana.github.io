@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            bhawana
+tagline:          "My thoughts, stories and ideas."
+socialmedia:      "Twitter: <a href='https://twitter.com/BhawanaSubba' target='_blank'>@BhawanaSubba</a>"
+url:              http://bhawana.com.np
+baseurl:          /
+
+author:
+  name:           'Bhawana'
+  url:            http://bhawana.com.np/about/
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
